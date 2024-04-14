@@ -1,2 +1,2 @@
-# pqcoin.com
+# pqcoin.net
 Introduce PQcoin
